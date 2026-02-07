@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: PaleTurquoise;
+    padding: 25px;
+}
+header a{
+   margin:10px;
+}
+header img{
+    margin:10px;
+}
+h1{
+  color: blueviolet;  
+}
+footer{
+    background-color:rgb(108, 248, 241) ;
+    color: blue;
+    
+}
+footer p{
+    background-color:White ;
+}
+nav{
+   background-color: darkblue;
+   text-align: center;
+   padding :10px;
+}
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+select{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid lightblue;
+    font-size: 20px;
+}
+select option{
+    color: aqua;
+}
+header img{
+    width:70px ;
+    height: 60px;
+}
+uy{
+    background-color: aquamarine;
+}
+header a{
+    text-decoration: none;
+    color:darkblue;
+    border: 2px solid darkblue;
+    border-radius:20px;
+    padding :10px
+}
+p{
+    background-color: rgb(165, 221, 253);
+    border: 2px solid darkblue;
+    border-radius:10px;
+    padding :10px
+}
